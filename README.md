@@ -1,15 +1,15 @@
 1. Based on the given extract from the annual financials of a production company (in US$) for the past year calculate the length of the working capital cycle (assuming 365 days in the year).
 Inventories
 
-Raw materials   108 000
-Work in progress   76 500
-Finished goods   86 400
-Purchases of raw materials   518 400
-Cost of production   675 000
-Cost of goods sold   756 000
-Sales   864 000
-Receivables   172 800
-Payables   86 400
+                Raw materials   108 000
+                Work in progress   76 500
+                Finished goods   86 400
+                Purchases of raw materials   518 400
+                Cost of production   675 000
+                Cost of goods sold   756 000
+                Sales   864 000
+                Receivables   172 800
+                Payables   86 400
 
                 solution.
                 Raw materials =  108 000 / 518 400       = 76,041667
