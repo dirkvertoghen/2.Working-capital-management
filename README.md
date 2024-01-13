@@ -11,14 +11,14 @@ Sales   864 000
 Receivables   172 800
 Payables   86 400
 
-solution.
-Raw materials =  108 000 / 518 400       = 76,041667
-WIP = 76 500 / 675 000 * 365             = 41,36667
-Finished goods = 864 000 / 756 000 * 365 = 41,714286
-Receivables = 172 800 / 86 400           = 73
-Payables = 86 400 / 518400 * 365         = 60,8333
-
-working capital cycles = 76,041667 + 41,36667 + 41,714286+73 + 60,8333 = 171,28929
+                solution.
+                Raw materials =  108 000 / 518 400       = 76,041667
+                WIP = 76 500 / 675 000 * 365             = 41,36667
+                Finished goods = 864 000 / 756 000 * 365 = 41,714286
+                Receivables = 172 800 / 86 400           = 73
+                Payables = 86 400 / 518400 * 365         = 60,8333
+                
+                working capital cycles = 76,041667 + 41,36667 + 41,714286+73 + 60,8333 = 171,28929
 
 
 
