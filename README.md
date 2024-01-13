@@ -24,6 +24,7 @@ Inventories
 
 2. Company’s managers estimate that there is demand for 50,000 units of material p.a. The purchase price of each unit is $20. The ordering costs for this material is $20 for each order placed. Inventory holding costs amount to 10% p.a. of inventory value.
 Required:
+
                   1) CalculatetheEconomicOrderQuantity,
                   2) Calculatethetotalinventorycostsforthisorderquantity,
                   3) Supposethatthesupplieroffersdiscountsonpurchasepriceasfollows:forthe
