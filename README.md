@@ -18,7 +18,7 @@ Inventories
                 Receivables = 172 800 / 86 400           = 73
                 Payables = 86 400 / 518400 * 365         = 60,8333
                 
-                working capital cycles = 76,041667 + 41,36667 + 41,714286+73 + 60,8333 = 171,28929
+                working capital cycles = 76,041667 + 41,36667 + 41,714286 + 73 + 60,8333 = 171,28929
 
 
 
