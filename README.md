@@ -104,11 +104,17 @@ Required: Calculate the net cost or benefit p.a. of changing to the new policy (
 
         **To accept the proposal**
 
-8. Company’s suppliers offer a 2% discount if bills are paid no later than in 10 days after receipt. Currently the company pays invoices in 30 days and therefore there is no discount provided.
-Required: assuming that there are 360 days in a year and bank overdraft is available at a rate of 20%, advise whether or not the Company should pay within 10 days.
+8. Company’s suppliers offer a **2%** discount if bills are paid no later than in 10 days after receipt. Currently the company pays invoices in **30 days** and therefore there is no discount provided.
+Required: assuming that there are **360 days** in a year and bank overdraft is available at a rate of **20%**, advise whether or not the Company should pay within **10 days**.
 
+              days   %
+              30    100%
+              10    98%
+              
+              20 days interest = ( 100% - 98% ) / 98% = 2,04%
+              Annual interest =  (2,04%+1)^(360/20)-1 = 43,86%
 
-9. A company currently takes 40 days credit from suppliers on the basis that this is ‘free’ finance. Annual purchases are $100,000 and the company pays overdraft interest of 13%. Payment within 15 days would attract a 1.5% quick settlement discount.
+10. A company currently takes 40 days credit from suppliers on the basis that this is ‘free’ finance. Annual purchases are $100,000 and the company pays overdraft interest of 13%. Payment within 15 days would attract a 1.5% quick settlement discount.
 Required: assess whether a company should take advantage of the discount? (assume 365 days in a year)
 
 
