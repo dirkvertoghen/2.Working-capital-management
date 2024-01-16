@@ -33,7 +33,7 @@ orders from **5,000** to **10,000** the discount is **1 %**, for the orders exce
 
 
       solution 
-                                                                        A                            B                          C
+                                                                          A                            B                          C
       Demand                                                             50 000                      50 000                   50 000
       Price                                                              20                         99% * 20 = 19,8          98,5% * 20  = 19,7
                                                         
