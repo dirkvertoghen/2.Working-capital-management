@@ -92,6 +92,7 @@ Required: Calculate the net cost or benefit p.a. of changing to the new policy (
                                         30      20%                Current AR turnover = ( 30 * 20 % ) + ( 60 * 30 % ) + ( 90 + 50 % ) = 69
                                         60      30%
                                         90      50%
+   
         Current AR level (Current AR turnover / 365 days * sale   69 / 360* 12 000 000 = 2.300 000
         Proposed AR turnover(Current AR turnover/365 days * sale )  69/360* 12 000 000 = 30 
         Proposed AR "account receivable"  level (Proposed AR turnover / 360 * 12 000 000 = 1 000 000
