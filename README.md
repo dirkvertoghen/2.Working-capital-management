@@ -54,9 +54,9 @@ Required:
                       1) Calculate the effective annual % cost of the discount
                       2) Suggest on the discount.
 
-             Sale on credit   sales 
-                  90         100 %
-                  30          96 %
+                       Sale on credit   sales 
+                            90         100 %
+                            30          96 %
 
               2months %             = 4/96                  = 4,17%
               1 year % equivalent   = ( 1 + 4,17%)^(12/2-1) = 27,75
