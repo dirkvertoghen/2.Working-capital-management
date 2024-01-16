@@ -61,7 +61,7 @@ Required:
               2months %             = 4/96                  = 4,17%
               1 year % equivalent   = ( 1 + 4,17%)^(12/2-1) = 27,75
    
-6.  A company’s annual sales are **$15 mln** and its customers currently take credit as
+5.  A company’s annual sales are **$15 mln** and its customers currently take credit as
 follows:
 The Company is considering offering a discount of **1%** for payment within **10 days**. It is estimated that **80%** of customers will take advantage of the discount (and that the remainder will take a full **45 days**). The company’s bank overdraft rate is **16%** p.a.
 Required:
@@ -84,21 +84,31 @@ Required:
                     Net cost of discount = 120 000 - 96236,71 = 23.763
                     Therefore we do not accept 
 
-8. Company A generates sales of $12 mln per year and its customers pay as follows:
-Management is deciding whether it should factor the debts. The factor is supposed to pay 100% of debts after 1 month for the fee of 2% of the turnover. The policy will allow to save annual personnel costs of $15k. The Company A’s bank overdraft rate is 20% p.a.
-Required: Calculate the net cost or benefit p.a. of changing to the new policy (assume 360 days in a year).
-
-                                        Days   % of sales
-                                        30      20%
+6. Company A generates **sales of $12 mln** per year and its customers pay as follows:
+Management is deciding whether it should factor the debts. The factor is supposed to pay **100%*** of debts after **1 month** for the fee of **2%** of the turnover. The policy will allow to save annual personnel costs of **$15k**. The Company A’s bank overdraft rate is **20%** p.a.
+Required: Calculate the net cost or benefit p.a. of changing to the new policy (assume **360 days** in a year).
+                                     
+                                        Days   % of sales          Sale = 12 000 000
+                                        30      20%                Current AR turnover = ( 30 * 20 % ) + ( 60 * 30 % ) + ( 90 + 50 % ) = 69
                                         60      30%
                                         90      50%
+        Current AR level (Current AR turnover / 365 days * sale   69 / 360* 12 000 000 = 2.300 000
+        Proposed AR turnover(Current AR turnover/365 days * sale )  69/360* 12 000 000 = 30 
+        Proposed AR "account receivable"  level (Proposed AR turnover / 360 * 12 000 000 = 1 000 000
+        Saved intereset = ( Current AR level - Proposed AR level )* intereset rate20% )  (2.300 000 - 1.000 000 )* 20 = 260 000
+        
+        Factor fee  P.A * sale = 2% * 12 000 000 = 240 000
+        Benefit( staff costs ) = 15 000
+        
+        Net benefit  saved interest + Benefit - Factor fee = 260 000 + 15 000 - 240 000 = 35 000 
 
+**To accept the proposal**
 
-9. Company’s suppliers offer a 2% discount if bills are paid no later than in 10 days after receipt. Currently the company pays invoices in 30 days and therefore there is no discount provided.
+8. Company’s suppliers offer a 2% discount if bills are paid no later than in 10 days after receipt. Currently the company pays invoices in 30 days and therefore there is no discount provided.
 Required: assuming that there are 360 days in a year and bank overdraft is available at a rate of 20%, advise whether or not the Company should pay within 10 days.
 
 
-10. A company currently takes 40 days credit from suppliers on the basis that this is ‘free’ finance. Annual purchases are $100,000 and the company pays overdraft interest of 13%. Payment within 15 days would attract a 1.5% quick settlement discount.
+9. A company currently takes 40 days credit from suppliers on the basis that this is ‘free’ finance. Annual purchases are $100,000 and the company pays overdraft interest of 13%. Payment within 15 days would attract a 1.5% quick settlement discount.
 Required: assess whether a company should take advantage of the discount? (assume 365 days in a year)
 
 
