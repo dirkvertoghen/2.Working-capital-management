@@ -35,17 +35,17 @@ orders from **5,000** to **10,000** the discount is **1 %**, for the orders exce
       solution 
                                                                         A                            B                          C
       Demand                                                             50 000                      50 000                   50 000
-      Price                                                              20                        = 99% * 20 = 19,8          98,5% * 20  = 19,7
+      Price                                                              20                         99% * 20 = 19,8          98,5% * 20  = 19,7
                                                         
       Ordering cost 1 order                                              20                           20                      20 
       Holding cost p.u.                                                   2                        19,8 * 10% = 1,98          19,7 * 10 % = 1,97      
       Economic oder quantity                                  (2 * 50000 * 20/2,00)^(1/2)=1000      5 0000                    10 0000
       
       Inventory cost 
-      purchasing(demand*price)                                    50 000 * 20 = 1.000.000       50000 * 19,8 = 990 000       50 000 * 19,7 = 985 000
-      Ordering costs(dmnd/eco.quant*ordercost)                    50 000/1000 * 20 = 1000       50000/5000*20 = 200          50000/10000*20 = 100       
-      Holding cost(econ.order/2*holding cost)                     1000/2*2 = 1000               5000/2*1,98 = 4950           10000/2*1,97 = 9850
-      Total(inventcost + purchasing + order cost+hldingcost)      (1000.000+1000+1000)=1002.0000   995.150                       994.950
+      purchasing(demand*price)                                    50 000 * 20 = 1.000.000          50000 * 19,8 = 990 000       50 000 * 19,7 = 985 000
+      Ordering costs(dmnd/eco.quant*ordercost)                    50 000/1000 * 20 = 1000          50000/5000*20 = 200          50000/10000*20 = 100       
+      Holding cost(econ.order/2*holding cost)                     1000/2*2 = 1000                   5000/2*1,98 = 4950           10000/2*1,97 = 9850
+      Total(inventcost + purchasing + order cost+hldingcost)      (1000.000+1000+1000)=1002.0000       995.150                       994.950
 
 
 4. Co A’s annual revenues are estimated at $10 mln and its customers are currently provided with a three-months’ credit. The management is considering offering a discount of 4% for payment within one month. The company is paying overdraft interest of 20% p.a.
