@@ -102,7 +102,7 @@ Required: Calculate the net cost or benefit p.a. of changing to the new policy (
         
         Net benefit  saved interest + Benefit - Factor fee = 260 000 + 15 000 - 240 000 = 35 000 
 
-**To accept the proposal**
+        **To accept the proposal**
 
 8. Company’s suppliers offer a 2% discount if bills are paid no later than in 10 days after receipt. Currently the company pays invoices in 30 days and therefore there is no discount provided.
 Required: assuming that there are 360 days in a year and bank overdraft is available at a rate of 20%, advise whether or not the Company should pay within 10 days.
