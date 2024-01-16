@@ -61,19 +61,28 @@ Required:
               2months %             = 4/96                  = 4,17%
               1 year % equivalent   = ( 1 + 4,17%)^(12/2-1) = 27,75
    
-6.  A company’s annual sales are $15 mln and its customers currently take credit as
+6.  A company’s annual sales are **$15 mln** and its customers currently take credit as
 follows:
-The Company is considering offering a discount of 1% for payment within 10 days. It is estimated that 80% of customers will take advantage of the discount (and that the remainder will take a full 45 days). The company’s bank overdraft rate is 16% p.a.
+The Company is considering offering a discount of **1%** for payment within **10 days**. It is estimated that **80%** of customers will take advantage of the discount (and that the remainder will take a full **45 days**). The company’s bank overdraft rate is **16%** p.a.
 Required:
 
                     1) Calculatethenetcostorbenefitofthechangeof policy (assume 365 days in a year)
                     2) Suggestonthechangeofpolicy.
-    
+                    solution : 
 
-                                          Days  % of sales
-                                          15     20%
-                                          30     50%
+                                          Days  % of sales          Annual sales = 15 000 000
+                                          15     20%                New sales = 15 000 000 * 80% * 99% + 15 000 000 * 20% =  14.880 000
+                                          30     50%                Difference = 15 0000 000 - 14 880 000 = 120 000
                                           45     30%
+                    
+                    Current AR ( account receivable ) = (15*20%) + ( 30 * 50%) +(45*30%) = 31,5
+                    Average AR level (currentAR/365 * annual sales )                            31,5/365 * 15 000 000   = 1.294.521
+                    Proposed AR turnover (payment 10 days*estimated80%+time45days*%sales)       10 * 80% + 45 * 20%     = 17
+                    Proposed average AR level  (proposed ar turnover/365*newsales )             17/365*14.880000        = 693.041 
+                    Interest saved ( average AR level-proposed average ar level)*interest saved 1.294.521 - 693.041*16% = 96236,71
+
+                    Net cost of discount = 120 000 - 96236,71 = 23.763
+                    Therefore we do not accept 
 
 8. Company A generates sales of $12 mln per year and its customers pay as follows:
 Management is deciding whether it should factor the debts. The factor is supposed to pay 100% of debts after 1 month for the fee of 2% of the turnover. The policy will allow to save annual personnel costs of $15k. The Company A’s bank overdraft rate is 20% p.a.
