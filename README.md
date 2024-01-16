@@ -58,8 +58,8 @@ Required:
                   90         100 %
                   30          96 %
 
-      2months %             = 4/96                  = 4,17%
-      1 year % equivalent   = ( 1 + 4,17%)^(12/2-1) = 27,75
+             2months %             = 4/96                  = 4,17%
+              1 year % equivalent   = ( 1 + 4,17%)^(12/2-1) = 27,75
    
 6.  A company’s annual sales are $15 mln and its customers currently take credit as
 follows:
