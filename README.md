@@ -48,12 +48,19 @@ orders from **5,000** to **10,000** the discount is **1 %**, for the orders exce
       Total(inventcost + purchasing + order cost+hldingcost)      (1000.000+1000+1000)=1002.0000       995.150                       994.950
       so the total inventory costs for this order quantity 994.950
 
-4. Co A’s annual revenues are estimated at $10 mln and its customers are currently provided with a three-months’ credit. The management is considering offering a discount of 4% for payment within one month. The company is paying overdraft interest of 20% p.a.
+4. Co A’s annual revenues are estimated at **$10 mln** and its customers are currently provided with a three-months’ credit. The management is considering offering a discount of **4%** for payment within one month. The company is paying overdraft interest of **20%** p.a.
 Required:
 
                       1) Calculate the effective annual % cost of the discount
                       2) Suggest on the discount.
 
+             Sale on credit   sales 
+                  90         100 %
+                  30          96 %
+
+      2months %             = 4/96                  = 4,17%
+      1 year % equivalent   = ( 1 + 4,17%)^(12/2-1) = 27,75
+   
 6.  A company’s annual sales are $15 mln and its customers currently take credit as
 follows:
 The Company is considering offering a discount of 1% for payment within 10 days. It is estimated that 80% of customers will take advantage of the discount (and that the remainder will take a full 45 days). The company’s bank overdraft rate is 16% p.a.
