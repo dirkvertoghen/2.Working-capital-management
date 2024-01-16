@@ -31,6 +31,7 @@ Required:
    
 orders from **5,000** to **10,000** the discount is **1 %**, for the orders exceeding **10,000** the discount is **1.5 %**. What would now be the Economic Order Quantity?
 
+
 solution 
                                                                   A                            B                          C
 Demand                                                             50 000                      50 000                   50 000
